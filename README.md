@@ -31,6 +31,9 @@ This project conducts market analysis for Beyondmedia, a revived media startup a
     - Research and analyse existing platforms offering similar services to Beyondmedia
     - Identifying their strengths, weaknesses, and ethical practices
     - Summary of findings and key insights
+ 
+  **Target Customers**
+
 
 **Customer Persona**
 
@@ -65,3 +68,8 @@ This project conducts market analysis for Beyondmedia, a revived media startup a
 
 *Reason for Selection:*
 This persona represents a significant segment of the creative freelancing industry in South Africa, as there is a growing trend towards digital content creation, especially in social media. She is early in her career (2.5 years of experience), reflecting the growing number of younger freelancers who are exploring digital avenues for creative expression and economic stability. This user is motivated by flexibility and creativity, key factors for many freelancers entering the market. Additionally, her goal of expanding her network aligns with the trend of leveraging digital platforms for career growth in the current freelancing landscape. She als represents a seg,et of the population who are uncertain in navigating career growth.
+
+**Market Size**
+
+**Competition**
+
