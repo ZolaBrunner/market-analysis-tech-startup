@@ -2,7 +2,7 @@ This project market analysis includes:
 
 **Project Title**
 
-Reviving BeyondMedia: Empowering Creative Freelancers in South Africa
+BeyondMedia 2.0
 
 **Project description**
 
