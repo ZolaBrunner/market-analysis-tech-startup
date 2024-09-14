@@ -1,5 +1,3 @@
-This project market analysis includes:
-
 **Project Title**
 
 BeyondMedia 2.0
@@ -8,32 +6,15 @@ BeyondMedia 2.0
 
 This project conducts market analysis for Beyondmedia, a revived media startup aiming to empower creative freelancers in South Africa with the technical skills needed to thrive in the competitive market. It builds upon the research from the thesis "Exploring Solutions to Reduce Unemployment via Creative Freelancing," focusing on solutions applicable to the South African context. The revived startup intends to integrate tech solutions with ethical considerations.
 
-**Goals of market analysis**
-
-- Assess the market size and growth potential for creative freelancers wanting to upskill their tech proficiency in South Africa.
-- Identify the target customer demographics and psychographics, outlining their needs and pain points.
-- Analyse the competitive landscape, evaluating existing platforms and their offerings.
-- Develop a compelling value proposition for Beyondmedia, highlighting its unique approach to empowering creative freelancers.
-- Explore the ethical implications of technology in the creative freelancing industry and identify potential challenges and opportunities.
-
-**Methods used for research and data collection** 
-
-- Industry reports and research data
-
-    - Utilise data from reputable sources to assess the size and growth of the freelance market in South Africa
-      - Within creative industries
-
-- My 2023 thesis
-  - Utilize surveys or interviews from the thesis
-    - To understand their challenges, needs, and ethical concerns regarding skills development
-
-- Competitive analysis
-    - Research and analyse existing platforms offering similar services to Beyondmedia
-    - Identifying their strengths, weaknesses, and ethical practices
-    - Summary of findings and key insights
+*Resources include referring to findings from the 2022 qualitative Thesis titled; "Exploring Solutions to Reduce Unemployment via Creative Freelancing", freelancers from all demographics, genders, skillsets were interviewed forming the foundation for this market analysis*
  
-  **Target Customers**
-
+**Target Market**
+- Freelancers 
+  - Skilled individuals in South Africa at all levels who are unable to find employment in traditional sectors and who are seeking flexible, project-based work.  
+        
+- Policymakers
+    - South African policymakers at both the national and regional levels, including those within         ministries, focused on employment, digital economy, education, and creative industries.
+    - Through policy interventions, policymakers can help transform freelancing into a sustainable solution for unemployment, fostering innovation, skill development, and economic growth across South Africa. Their role is central to creating a legal and economic framework that enables freelancers to thrive while reducing the nation's unemployment crisis.
 
 **Customer Persona**
 
@@ -49,7 +30,7 @@ This project conducts market analysis for Beyondmedia, a revived media startup a
 
 - Location: Johannesburg, South Africa
 
-- Bio: Bokamoso is a young black creative freelancer who is part of the growing number of freelancers who are unemployed in south Africa. She is passionate about creativity and technology. She skillset is focused in writing, creating social media content and digital marketing strategies but she is navigating the challenges of establishing herself in the unemployment landscape and is motivated by creative expression and the search for new opportunities. She wants to upskill herself but does not know where or how to do so.
+- Bio: Bokamoso is a young black creative freelancer who is part of the growing number of freelancers who are unemployed in South Africa. She is passionate about creativity and technology. Her skillset is focused on writing, creating social media content and digital marketing strategies but she is navigating the challenges of establishing herself in the unemployment landscape and is motivated by creative expression and the search for new opportunities. She wants to upskill herself but does not know where or how to do so.
 
 - Pains:
   - Difficulty finding consistent work
@@ -67,9 +48,48 @@ This project conducts market analysis for Beyondmedia, a revived media startup a
   - Secure a consistent stream of work to enhance her career stability
 
 *Reason for Selection:*
-This persona represents a significant segment of the creative freelancing industry in South Africa, as there is a growing trend towards digital content creation, especially in social media. She is early in her career (2.5 years of experience), reflecting the growing number of younger freelancers who are exploring digital avenues for creative expression and economic stability. This user is motivated by flexibility and creativity, key factors for many freelancers entering the market. Additionally, her goal of expanding her network aligns with the trend of leveraging digital platforms for career growth in the current freelancing landscape. She als represents a seg,et of the population who are uncertain in navigating career growth.
+This persona represents a significant segment of the creative freelancing industry in South Africa, as there is a growing trend towards digital content creation, especially in social media. She is early in her career (2.5 years of experience), reflecting the growing number of younger freelancers who are exploring digital avenues for creative expression and economic stability. This user is motivated by flexibility and creativity, key factors for many freelancers entering the market. Additionally, her goal of expanding her network aligns with the trend of leveraging digital platforms for career growth in the current freelancing landscape. She also represents a segment of the population who are uncertain in navigating career growth.
 
 **Market Size**
 
+Freelancing in South Africa is growing, with 72% of freelancers being women, and most freelancers residing in Gauteng. The digital economy is playing an increasing role in job creation, despite high unemployment.
+
 **Competition**
+
+- Existing Platforms
+  - In South Africa, platforms like Freelancer South Africa, Mintor, and Niche Market provide digital spaces for freelancers to find work. In comparison, the UK has more mature and diverse platforms (e.g., CloudPeeps, PeoplePerHour).
+    
+- Challenges
+    - South Africa faces several barriers, such as inconsistent access to technology, loadshedding, and limited government support. On the other hand, the UK provides a supportive ecosystem with financial backing and mentorship programs.
+
+**Opportunities**
+- Growing Demand for Freelancers
+    - Despite unemployment, there is growing demand for freelance work in various creative fields, especially given the rise of digital platforms.
+      
+- Government Support
+    - There is potential for the South African government to adopt some of the UK's strategies, such as grant funding and mentorship programs, to support freelancers and reduce unemployment.
+      
+- Skills Gap Training
+    - Addressing the skills gap in creative fields through education and training programs could boost the employability of freelancers.
+
+**Methods used for research and data collection** 
+
+- Industry reports and research data
+
+    - Utilise data from reputable sources to assess the size and growth of the freelance market in South Africa
+      - Within creative industries
+     
+**Challenges**
+- Infrastructure Issues
+    - Loadshedding and unreliable internet access remain significant obstacles for freelancers in South Africa.
+- Financial Stress
+    - Many freelancers in South Africa face financial instability, which is exacerbated by the lack of consistent income and access to funding
+ 
+**Recommendations for Growth**
+- Policy Interventions
+    - Implementing policies similar to the UK’s (e.g., Creative Careers Programme) could enhance the freelancing ecosystem in South Africa.
+- Mentorship and Training
+    - Establishing mentorship and skills development programs tailored for freelancers would increase their competitiveness in the market.
+- Freelance Unions
+    - The idea of forming a union or governing body for freelancers, which appeared frequently in the thesis, could provide collective bargaining power and address common challenges faced by freelancers.
 
