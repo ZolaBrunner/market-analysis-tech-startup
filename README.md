@@ -4,9 +4,14 @@ BeyondMedia 2.0
 
 **Project description**
 
-This project conducts market analysis for Beyondmedia, a revived media startup aiming to empower creative freelancers in South Africa with the technical skills needed to thrive in the competitive market. It builds upon the research from the thesis "Exploring Solutions to Reduce Unemployment via Creative Freelancing," focusing on solutions applicable to the South African context. The revived startup intends to integrate tech solutions with ethical considerations.
+This project conducts market analysis for Beyondmedia, a revived media startup aiming to empower creative freelancers in South Africa with the technical skills needed to thrive in the competitive market. It builds upon the research from the thesis "Exploring Solutions to Reduce Unemployment via Creative Freelancing," focusing on solutions applicable to South Africa. The revived startup intends to integrate tech solutions with ethical considerations.
 
-*Resources include referring to findings from the 2022 qualitative Thesis titled; "Exploring Solutions to Reduce Unemployment via Creative Freelancing", freelancers from all demographics, genders, skillsets were interviewed forming the foundation for this market analysis*
+*Resources include referring to findings from the 2022 qualitative Thesis titled; "Exploring Solutions to Reduce Unemployment via Creative Freelancing", freelancers from all demographics, genders, and skills were interviewed forming the foundation for this market analysis*
+
+**Market Analysis**
+
+- <a href="https://lucid.app/lucidspark/c1152582-42be-45bb-b4dd-5517546f752a/edit?viewport_loc=-13%2C-266%2C4577%2C4597%2C0_0&invitationId=inv_081b458d-21f3-48db-8046-ec18d5a6fceb"> SWOT Analysis</a>
+- <a href="http://lucid.app/lucidspark/18d488c4-87c2-45a1-8d60-c1d55da913a5/edit?invitationId=inv_0fcac234-34b6-4d77-a9d4-a614067c5d63)"> Porter's 5 forces analysis</a>
  
 **Target Market**
 - Freelancers 
